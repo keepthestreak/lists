@@ -1,4 +1,4 @@
 word,example,translation
-a0, b, a0 example
-a1, b, a1 example
-a2, b, a2 example
+a0, a0 example, b
+a1, a1 example, b
+a2, a2 example, b
