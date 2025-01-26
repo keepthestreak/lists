@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "language": "fr-FR"
+  },
+  "words": [
+    {
+      "word": "éloigné",
+      "translation": "distant",
+      "example": "La France est bien trop éloignée."
+    },
+    {
+      "word": "suffire",
+      "translation": "to suffice",
+      "example": "Il suffirait de pouvoir aller en France en une minute."
+    },
+    {
+      "word": "chaise",
+      "translation": "chair",
+      "example": "Il te suffisait de tirer ta chaise de quelques pas."
+    },
+    {
+      "word": "crépuscule",
+      "translation": "twilight",
+      "example": "Et tu regardais le crépuscule chaque fois que tu le désirais."
+    },
+    {
+      "word": "désirer",
+      "translation": "to desire",
+      "example": "Tu regardais le crépuscule chaque fois que tu le désirais."
+    },
+    {
+      "word": "ri",
+      "translation": "laughed",
+      "example": "Et puis tu as ri de toi-même."
+    },
+    {
+      "word": "en effet",
+      "translation": "indeed",
+      "example": "En effet c'est la vérité."
+    },
+    {
+      "word": "coucher de soleil",
+      "translation": "sunset",
+      "example": "Nous avons regardé le coucher de soleil sur la plage."
+    }
+  ]
+}

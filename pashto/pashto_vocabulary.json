@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "language": "en-US"
+  },
+  "words": [
+    {
+      "word": "hello",
+      "translation": "salaam",
+      "example": "سلام"
+    },
+    {
+      "word": "welcome",
+      "translation": "kha raghlast",
+      "example": "ښه راغلاست"
+    },
+    {
+      "word": "please",
+      "translation": "mehrbani okrhi",
+      "example": "مهرباني وکړئ"
+    },
+    {
+      "word": "thank you",
+      "translation": "manana",
+      "example": "مننه"
+    },
+    {
+      "word": "sorry",
+      "translation": "bakhshna ghwaram",
+      "example": "بخښنه غواړم"
+    },
+    {
+      "word": "yes",
+      "translation": "ho",
+      "example": "هو"
+    },
+    {
+      "word": "no",
+      "translation": "na",
+      "example": "نه"
+    },
+    {
+      "word": "how are you?",
+      "translation": "tsenga yast?",
+      "example": "څنګه یاست؟"
+    },
+    {
+      "word": "good",
+      "translation": "kha",
+      "example": "ښه"
+    },
+    {
+      "word": "bad",
+      "translation": "bad",
+      "example": "بد"
+    },
+    {
+      "word": "goodbye",
+      "translation": "khoday paaman",
+      "example": "خدای پامان"
+    }
+  ]
+}
