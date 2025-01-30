@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "description": "greeting words in pashto",
+    "language": "ps-AF"
+  },
+
+  "words": [
+    { "word": "سلام", "translation": "Hello", "transcription": "Salam", "example": "سلام! ته څنګه یې؟" },
+    { "word": "ښه راغلاست", "translation": "Welcome", "transcription": "Kha raghlast", "example": "ښه راغلاست زما کور ته!" },
+    { "word": "سهار مو پخیر", "translation": "Good morning", "transcription": "Sahar mo bakhair", "example": "سهار مو پخیر، دوست!" },
+    { "word": "ماښام مو پخیر", "translation": "Good evening", "transcription": "Makham mo bakhair", "example": "ماښام مو پخیر، ښاغلی!" },
+    { "word": "شپه مو پخیر", "translation": "Good night", "transcription": "Shpa mo bakhair", "example": "شپه مو پخیر، سبا به ګورو!" },
+    { "word": "خدای مو مل شه", "translation": "Goodbye", "transcription": "Khodai mo mal sha", "example": "خدای مو مل شه، ښه ورځ ولره!" },
+    { "word": "زه خوشحاله یم چې تا ګورم", "translation": "Nice to meet you", "transcription": "Za khushala yam che ta gorum", "example": "سلام، زه خوشحاله یم چې تا ګورم!" },
+    { "word": "څنګه یې؟", "translation": "How are you?", "transcription": "Tsanga ye?", "example": "سلام، ته څنګه یې؟" },
+    { "word": "زه ښه یم", "translation": "I am fine", "transcription": "Za kha yam", "example": "زه ښه یم، مننه!" },
+    { "word": "مننه", "translation": "Thank you", "transcription": "Manana", "example": "مننه، ته ډېر مهربان یې!" },
+    { "word": "مهرباني وکړئ", "translation": "Please", "transcription": "Mehrabani okai", "example": "مهرباني وکړئ، یو ځل بیا ووایاست!" },
+    { "word": "بخښنه غواړم", "translation": "Sorry", "transcription": "Bakhshna ghoaram", "example": "بخښنه غواړم، زه ناوخته شوم." },
+    { "word": "زه تا سره مینه لرم", "translation": "I love you", "transcription": "Za ta sara meena laram", "example": "زه تا سره مینه لرم، ملګریه!" },
+    { "word": "ښه یوسه", "translation": "Take care", "transcription": "Kha yousa", "example": "خدای مو مل شه، ښه یوسه!" },
+    { "word": "زه بښنه غواړم", "translation": "Excuse me", "transcription": "Za bakhshna ghoaram", "example": "زه بښنه غواړم، تاسو څه وویل؟" },
+    { "word": "زه نه پوهیږم", "translation": "I don’t understand", "transcription": "Za na poheegam", "example": "بخښنه غواړم، زه نه پوهیږم." },
+    { "word": "زه ستړی یم", "translation": "I am tired", "transcription": "Za statray yam", "example": "زه ستړی یم، زه ویده کیږم." },
+    { "word": "ښه ورځ ولره", "translation": "Have a good day", "transcription": "Kha wroz walarha", "example": "ښه ورځ ولره، سبا به ګورو!" },
+    { "word": "ښه راغلاست بېرته", "translation": "Welcome back", "transcription": "Kha raghlast berata", "example": "ښه راغلاست بېرته، موږ دې یادوو!" },
+    { "word": "زه ستاسو مرسته ته اړتیا لرم", "translation": "I need your help", "transcription": "Za staso mrasta ta arta laram", "example": "زه ستاسو مرسته ته اړتیا لرم، مهرباني وکړئ!" }
+  ]
+}
+
