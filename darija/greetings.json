@@ -1,0 +1,130 @@
+{
+    "meta": {
+        "description": "A collection of 20 greetings in Darija (Moroccan Arabic) with their English translations, example usage, and transliteration.",
+        "language": "ar-MA",
+        "example_language": "en-US"
+    },
+    "words": [
+        {
+            "word": "السلام عليكم",
+            "translation": "Peace be upon you",
+            "example": "السلام عليكم، كيداير؟",
+            "transliteration": "Salam alaykum, kidayr?"
+        },
+        {
+            "word": "وعليكم السلام",
+            "translation": "And peace be upon you",
+            "example": "وعليكم السلام، بخير الحمد لله",
+            "transliteration": "Wa alaykum salam, bkhir alhamdulillah"
+        },
+        {
+            "word": "صباح الخير",
+            "translation": "Good morning",
+            "example": "صباح الخير، كيف داز الليل؟",
+            "transliteration": "Sbāḥ lkhir, kif dāz llil?"
+        },
+        {
+            "word": "صباح النور",
+            "translation": "Good morning (response)",
+            "example": "صباح النور، كلشي مزيان؟",
+            "transliteration": "Sbāḥ nnūr, kulshi mzyan?"
+        },
+        {
+            "word": "مساء الخير",
+            "translation": "Good evening",
+            "example": "مساء الخير، كيف داير؟",
+            "transliteration": "Msā lkhir, kif dayr?"
+        },
+        {
+            "word": "مساء النور",
+            "translation": "Good evening (response)",
+            "example": "مساء النور، الحمد لله",
+            "transliteration": "Msā nnūr, lḥamdulillah"
+        },
+        {
+            "word": "كيف داير؟",
+            "translation": "How are you? (to a man)",
+            "example": "السلام عليكم، كيف داير؟",
+            "transliteration": "Kif dayr?"
+        },
+        {
+            "word": "كيف دايرة؟",
+            "translation": "How are you? (to a woman)",
+            "example": "السلام عليكم، كيف دايرة؟",
+            "transliteration": "Kif dayra?"
+        },
+        {
+            "word": "لاباس؟",
+            "translation": "Are you doing well?",
+            "example": "لاباس؟ كلشي مزيان؟",
+            "transliteration": "Labas? Kulshi mzyan?"
+        },
+        {
+            "word": "الحمد لله",
+            "translation": "Praise be to God (I'm fine)",
+            "example": "الحمد لله، وانت؟",
+            "transliteration": "Lḥamdulillah, u nta?"
+        },
+        {
+            "word": "كلشي بخير؟",
+            "translation": "Is everything okay?",
+            "example": "السلام عليكم، كلشي بخير؟",
+            "transliteration": "Kulshi bkhir?"
+        },
+        {
+            "word": "مزيان، وانت؟",
+            "translation": "Good, and you?",
+            "example": "مزيان، وانت؟",
+            "transliteration": "Mzyan, u nta?"
+        },
+        {
+            "word": "كيدايرين؟",
+            "translation": "How are you all?",
+            "example": "السلام عليكم، كيدايرين؟",
+            "transliteration": "Kidayrin?"
+        },
+        {
+            "word": "واش بخير؟",
+            "translation": "Are you well?",
+            "example": "واش بخير؟",
+            "transliteration": "Wash bkhir?"
+        },
+        {
+            "word": "نهار كبير هذا!",
+            "translation": "What a great day!",
+            "example": "السلام عليكم، نهار كبير هذا!",
+            "transliteration": "Nhar kbir hada!"
+        },
+        {
+            "word": "الله يبارك فيك",
+            "translation": "May God bless you",
+            "example": "الله يبارك فيك، خويا",
+            "transliteration": "Allah ybarek fik, khuya"
+        },
+        {
+            "word": "توحشتك",
+            "translation": "I missed you",
+            "example": "توحشتك بزاف!",
+            "transliteration": "Twaḥshtk bzaf!"
+        },
+        {
+            "word": "مرحبا",
+            "translation": "Welcome",
+            "example": "مرحبا بيك فدارنا",
+            "transliteration": "Marḥba bik f darna"
+        },
+        {
+            "word": "الله يسهل",
+            "translation": "May God make things easy for you",
+            "example": "الله يسهل عليك",
+            "transliteration": "Allah ysahl ʿlik"
+        },
+        {
+            "word": "بسلامة",
+            "translation": "Goodbye",
+            "example": "بسلامة، نشوفك غدا",
+            "transliteration": "Bslama, nshufk ghdā"
+        }
+    ]
+}
+
