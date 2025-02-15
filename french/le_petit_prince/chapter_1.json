@@ -1,82 +1,99 @@
 {
   "meta": {
-    "language": "fr-FR"
+    "language": "fr-FR",
+    "source_language": "fr-FR",
+    "target_language": "en-US"
   },
   "words": [
     {
       "word": "vierge",
       "translation": "virgin",
-      "example": "Cette forêt est encore vierge sans traces humaines."
+      "example": "Cette forêt est encore vierge sans traces humaines.",
+      "transliteration": null
     },
     {
       "word": "boa",
       "translation": "kind of snake",
-      "example": "Le boa est un serpent qui peut avaler de grandes proies."
+      "example": "Le boa est un serpent qui peut avaler de grandes proies.",
+      "transliteration": null
     },
     {
       "word": "avaler",
       "translation": "to swallow",
-      "example": "Il ne faut pas avaler trop vite pour éviter de s'étouffer."
+      "example": "Il ne faut pas avaler trop vite pour éviter de s'étouffer.",
+      "transliteration": null
     },
     {
       "word": "un fauve",
       "translation": "a wild animal",
-      "example": "Le lion est considéré comme un fauve majestueux."
+      "example": "Le lion est considéré comme un fauve majestueux.",
+      "transliteration": null
     },
     {
       "word": "mâcher",
       "translation": "to chew",
-      "example": "N'oublie pas de bien mâcher tes aliments avant d'avaler."
+      "example": "N'oublie pas de bien mâcher tes aliments avant d'avaler.",
+      "transliteration": null
     },
     {
       "word": "bouger",
       "translation": "to move",
-      "example": "Pendant le film il est resté immobile sans bouger."
+      "example": "Pendant le film il est resté immobile sans bouger.",
+      "transliteration": null
     },
     {
       "word": "tracer",
       "translation": "to trace",
-      "example": "Avec une règle il a commencé à tracer une ligne droite."
+      "example": "Avec une règle il a commencé à tracer une ligne droite.",
+      "transliteration": null
     },
     {
       "word": "chef-d'œuvre",
       "translation": "masterpiece",
-      "example": "La Joconde est un chef-d'œuvre célèbre dans le monde entier."
+      "example": "La Joconde est un chef-d'œuvre célèbre dans le monde entier.",
+      "transliteration": null
     },
     {
       "word": "digérer",
       "translation": "to digest",
-      "example": "Après un grand repas il faut du temps pour digérer."
+      "example": "Après un grand repas il faut du temps pour digérer.",
+      "transliteration": null
     },
     {
       "word": "laisser de côté",
       "translation": "to leave aside",
-      "example": "J’ai dû laisser de côté ce projet pour finir le rapport urgent."
+      "example": "J’ai dû laisser de côté ce projet pour finir le rapport urgent.",
+      "transliteration": null
     },
     {
       "word": "plutôt",
       "translation": "instead",
-      "example": "Je préfère aller au parc plutôt que de rester à la maison."
+      "example": "Je préfère aller au parc plutôt que de rester à la maison.",
+      "transliteration": null
     },
     {
       "word": "égarer",
       "translation": "to stray",
-      "example": "En marchant dans la forêt il a fini par s’égarer."
+      "example": "En marchant dans la forêt il a fini par s’égarer.",
+      "transliteration": null
     },
     {
       "word": "porter à sa portée",
       "translation": "to simplify",
-      "example": "Il essaie toujours de porter ses idées à sa portée pour qu'elles soient compréhensibles."
+      "example": "Il essaie toujours de porter ses idées à sa portée pour qu'elles soient compréhensibles.",
+      "transliteration": null
     },
     {
       "word": "tas de",
       "translation": "loads of",
-      "example": "Il y a un tas de livres sur cette table."
+      "example": "Il y a un tas de livres sur cette table.",
+      "transliteration": null
     },
     {
       "word": "Histoires vécues",
       "translation": "true stories",
-      "example": "Le livre s'appelait Histoires vécues."
+      "example": "Le livre s'appelait Histoires vécues.",
+      "transliteration": null
     }
   ]
 }
